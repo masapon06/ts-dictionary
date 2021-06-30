@@ -13,6 +13,7 @@ export default class World {
         return (elem.innerText = this.message)
       } else {
         return
+        
       }
     }
   }
